@@ -1,0 +1,10 @@
+body {
+  background-image: url("https://www.dropbox.com/s/jivkwc3bxbbemxk/cuzynot.PNG?dl=0&m=");
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 80px;
+}
